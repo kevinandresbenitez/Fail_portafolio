@@ -273,7 +273,7 @@
         padding: 20px 0px;
     }
     .nav-bar{
-        position: sticky;
+        position: static;
 
         display: flex;
         flex-flow: column nowrap;
