@@ -290,6 +290,8 @@
         max-width: 98vw;
         height: 350px;
     }
-
+    .footer div div:last-child {
+        flex-flow: column nowrap;
+    }
 
 }
